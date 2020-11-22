@@ -317,4 +317,4 @@
 		-Yes, i’d like ——for my twin daughters.
 		A.two pair of shoes  B.two pair of shoe 
 		C.two pairs of shoes D.two pairs of shoe
-		解析：C
+		解析：C 
